@@ -33,16 +33,6 @@ I specialize in integrating Generative AI, Cloud Computing, and IoT hardware to 
 
 ---
 
-## 👥 ADROIT Innovators Community
-
-As the Founder & Tech Lead of ADROIT Innovators Club, I’m working on bridging the technical skill gap between rural talents and urban opportunities by:
-
-- Conducting AI & Cloud Workshops for diploma and ZP school students.
-- Leading hands-on innovation camps to build real-world projects.
-- Encouraging a "Learn, Build, Showcase" ecosystem for upcoming tech enthusiasts.
-- Empowering students to participate in national-level hackathons and startup ideathons.
-
-Our vision is to create a self-sustaining innovation loop, where learning translates into community-driven projects that impact society.
 
 ---
 
