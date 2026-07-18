@@ -226,15 +226,6 @@ I'm a **Software Architect & AI Systems Designer** specializing in:
 
 ---
 
-## 📊 GITHUB METRICS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpionawaz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scorpionawaz&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
-
-</div>
 
 ---
 
