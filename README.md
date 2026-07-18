@@ -242,14 +242,6 @@ I'm a **Software Architect & AI Systems Designer** specializing in:
 
 ---
 
-## 📈 QUICK STATS
-
-- **3+ Years** architecting agentic AI systems
-- **4+ Hackathon Wins** including global top 10 recognitions
-- **5+ Production Products** actively deployed & scaling
-- **1 Founder Role** — Leading innovation community of 100+ members
-- **2+ Industries** — Healthcare, Education, Enterprise, Hardware Automation
-
 ---
 
 ## 🤝 LET'S BUILD TOGETHER
@@ -268,24 +260,8 @@ I'm always open to:
 
 ---
 
-<div align="center">
-  
-  <h3>
-    <i>🚀 Architecting intelligence. 🔧 Building products. 🌍 Creating impact.</i>
-  </h3>
-  
-  <p>
-    <strong>Last Updated:</strong> March 2026 | 
-    <strong>Status:</strong> Always Building 🔨
-  </p>
-
-</div>
 
 ---
-
-<div align="center" style="opacity: 0.6; font-size: 0.9em;">
-
-Made with ❤️ by someone who believes **great architecture transcends code**
 
 </div>
 
