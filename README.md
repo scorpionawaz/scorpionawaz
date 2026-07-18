@@ -298,5 +298,3 @@ Made with ❤️ by someone who believes **great architecture transcends code**
 
 </div>
 
-
-make it littble bit profeesional keep it short
