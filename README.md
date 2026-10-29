@@ -66,7 +66,7 @@
 
 ### 🛠️ Technical Arsenal
 
-- **Languages:** Python, C++, Java, C#, JavaScript
+- **Languages:** Python, C++
 - **AI & Agentic Systems:** Multi-Agent Orchestration, Google ADK, RAG Pipelines, LoRA/QLoRA Fine-Tuning, Vertex AI, Hugging Face
 - **Backend & Architecture:** FastAPI, Flask, Django, gRPC, Server-Sent Events (SSE), WebSockets, Microservices
-- **Cloud, Databases & Edge:** GCP (Cloud Run), AWS (EC2), Docker, CI/CD, Redis, PostgreSQL, MongoDB, Vector DBs, FANUC FOCAS (CNC), Android Native (Java), C# .NET
+- **Cloud, Databases & Edge:** GCP ,, Docker, CI/CD, Redis, PostgreSQL, MongoDB, Vector DBs, FANUC FOCAS (CNC), Android Native (Java), C# .NET
